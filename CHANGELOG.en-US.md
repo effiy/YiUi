@@ -3022,7 +3022,6 @@ _2022-02-28_
 #### Bug fixes
 
 - Docs jitter when expand source code (#6279 by @msidolphin)
-- Docs fix banner covering sponsor problem (#6269 by @msidolphin)
 - Deps update dependency @element-plus/icons-vue to v1 (#6319 by @renovate[bot])
 - Components [el-dialog] don't ignore z-index (#6332 by @purepear)
 - Components [el-dialog] revert focus trapping feature (#6346 by @JeremyWuuuuu)
