@@ -1,5 +1,5 @@
 {
-  "name": "element-plus",
+  "name": "yi-ui",
   "version": "0.0.0-dev.1",
   "description": "A Component Library for Vue 3",
   "keywords": [
@@ -10,10 +10,6 @@
     "ui",
     "vue"
   ],
-  "homepage": "https://element-plus.org/",
-  "bugs": {
-    "url": "https://github.com/element-plus/element-plus/issues"
-  },
   "license": "MIT",
   "main": "lib/index.js",
   "module": "es/index.mjs",
@@ -63,7 +59,7 @@
   "jsdelivr": "dist/index.full.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/element-plus/element-plus.git"
+    "url": "git+https://github.com/effiy/YiUi"
   },
   "publishConfig": {
     "access": "public"
